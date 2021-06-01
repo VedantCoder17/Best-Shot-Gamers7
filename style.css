@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    }
+#nav{
+    top: 0;
+    z-index: 9999;
+    position:sticky;  
+    text-align: center;
+    padding: 14px 16px;
+    scroll-behavior: smooth;
+    cursor: pointer;}
+    #img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 150px;
+        height: 150px;  
+    }
+    #bsg{
+        color: blue;
+    }
+    #bsg_2{
+        color: rgb(255, 0, 0);
+    }
+    .body{
+        background: linear-gradient(135deg, aqua , chartreuse ,aqua , chartreuse )
+         }
+img{
+    border-radius: 50%;
+    border-width: 5px;
+    border-color: red;
+    border-style: solid;
+       
+         }
+#stbg2{
+    margin-right: 20px;
+}
+#stbg{
+    margin-left: 20px;
+}
+#h3{
+    background-color: turquoise;
+    color: white;
+}
+#h1{
+    background-color: rgb(2, 120, 255);
+}
+#ABOUTus{
+   background-color: turquoise;
+}
